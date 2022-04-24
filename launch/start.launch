@@ -1,0 +1,3 @@
+<launch>
+  <node name="objdet" pkg="if_isaac" type="objdet" />
+</launch>
